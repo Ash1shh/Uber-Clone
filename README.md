@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://download.logo.wine/logo/Uber/Uber-Logo.wine.png" alt="logo" width="200" height="auto" />
+  <img src="https://1000logos.net/wp-content/uploads/2017/09/Uber-logo.jpg" alt="logo" width="200" height="auto" />
   
 # Uber-Clone with REACT NATIVE!
   
@@ -50,7 +50,7 @@
 ### :camera: Screenshots
 
 <div align="center" display='flex'>
-<img width='300rem'  src='https://user-images.githubusercontent.com/87669361/215503229-ab694dc9-6a30-4db4-9461-a205a8f45821.png' alt='image'/>
+<img width='400rem'  src='https://user-images.githubusercontent.com/87669361/215503229-ab694dc9-6a30-4db4-9461-a205a8f45821.png' alt='image'/>
 </div>
 
 <br />
