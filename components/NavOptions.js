@@ -15,16 +15,16 @@ import { selectOrigin } from '../slices/navSlice'
 
 const data = [
   {
-    id: "123",
+    id: "12345",
     title: "Get a ride",
     image: "https://links.papareact.com/3pn",
     screen: "MapScreen",
   },
   {
-    id: "456",
+    id: "56789",
     title: "Order food",
     image: "https://links.papareact.com/28w",
-    screen: "Eats Screen ", // CHANGES IN FUTURE ....
+    screen: "EatsScreen", // CHANGES IN FUTURE ....
   },
 ];
 
